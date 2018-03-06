@@ -35,9 +35,9 @@ end
 def retrieve_first_element_from_array(array)
   animals = ["wow", "dog", "am", "rabbit", "goat", "arrays!"]
   animals [0]
-
 end
 
 def retrieve_last_element_from_array(array)
-
+  animals = ["wow", "dog", "am", "rabbit", "goat", "arrays!"]
+  animals [5]
 end
