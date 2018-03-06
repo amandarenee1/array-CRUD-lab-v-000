@@ -33,6 +33,8 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
+  animals = ["wow", "dog", "am", "rabbit", "goat", "arrays!"]
+  animals [0]
 
 end
 
